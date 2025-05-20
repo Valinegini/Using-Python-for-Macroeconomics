@@ -1,5 +1,4 @@
-# Using-Python-for-Macroeconomics
-# ECON 8220 Final Project - A Model with Labor, Capital Taxes, and Land
+# A Model with Labor, Capital Taxes, and Land (Neo Classical Growth model)
 
 ## Overview
 This project, conducted for ECON 8220 - Applied Macroeconomics (Fall 2023) under Prof. Marcelo Arbex, investigates the effects of an incomplete tax system within a Neoclassical Growth Model. We focus on the steady-state equilibrium where capital, labor, and land are used in production, but the government can only tax capital and labor, leaving land untaxed. Here, "land" is broadly interpreted to include natural resources and nature’s waste-absorbing capacity. By calibrating the model to the Canadian economy and comparing it with Italy’s tax composition, we analyze optimal tax policies and their impact on economic welfare, providing insights into balancing fiscal policy and economic efficiency.
